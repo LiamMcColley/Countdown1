@@ -1,0 +1,14 @@
+h6 {
+    font-family: sans-serif;
+    text-decoration: underline;
+    background-color: blue;
+}
+.important{
+    font-weight: bold;
+    background-color: chartreuse;
+}
+#main-header{
+    background-color: #ABABAB;
+    text-align: center;
+
+}
